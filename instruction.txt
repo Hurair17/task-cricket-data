@@ -1,0 +1,10 @@
+Instructions:
+Please perform the following tasks with the data set provided.
+• Take as many insights from the data set as possible.
+• Visualizations.
+• Statistical Methods
+• Any ML Model (if possible)
+• Any out-of-the-box approach will be appreciated.
+Present your insights in a report, with all the charts, etc. Also, briefly explain the steps
+performed.
+Deadline: 11:59 PM, Sunday [Oct 30, 2019]
